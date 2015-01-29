@@ -1,0 +1,29 @@
+{
+    "subtoko":[
+                {
+                            "id":"1",
+                            "distro":"Bandung Metal Rock",
+                            "informasi":"tes",
+                            "alamat":"Jln.x",
+                            "lokasi":{
+                                        "gambar":"http://xxx",
+                                        "latitude":"-112313",
+                                        "longitude":"313131"
+                                      }
+                        }
+                ,
+                 {
+                            "id":"2",
+                            "distro":"Bandung Distro",
+                            "informasi":"tes",
+                            "alamat":"Jln.x",
+                             "lokasi":{
+                                        "gambar":"http://xxx",
+                                        "latitude":"-112313",
+                                        "longitude":"313131"
+                                      }
+
+                 }
+
+                ]
+}

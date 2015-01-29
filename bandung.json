@@ -1,0 +1,87 @@
+{
+    "lokasi": [
+        {
+                "id": "bd01",
+                "name": "Bandung Utara",
+                "subtoko":[{
+                            "id":"",
+                            "distro":"Bandung Metal Rock",
+                            "informasi":"",
+                            "alamat":"Jln.x"
+                          },
+                          {
+                            "id":"",
+                            "distro":"Bandung Distro",
+                            "informasi":"",
+                            "alamat":"Jln.x"
+                          }
+                        ]
+        },
+        {
+                "id": "bd02",
+                "name": "Bandung Selatan",
+                "subtoko":[{
+                            "id":"",
+                            "distro":"Idola",
+                            "informasi":"",
+                            "alamat":"Jln.x"
+                          },
+                          {
+                            "id":"",
+                            "distro":"Meteor Distro",
+                            "informasi":"",
+                            "alamat":"Jln.x"
+                          }
+                ]
+
+        },
+        {
+
+            "id": "bd03",
+                "name": "Bandung Timur"
+        },
+        {
+                "id": "bd04",
+                "name": "Bandung Barat"
+        }
+            ]
+},
+{
+    "sublokasi":[
+            {
+                "id": "sb01",
+                "name": "Bandung Distro",
+                "informasi":"Terletak di ",
+                "Latitude":"",
+                "Longitude":"",
+                "Gambar":""
+            },
+            
+
+ {
+                "id": "sb02",
+                "name": "Gaul Distro",
+                "informasi":"Terletak di ",
+                "Latitude":"",
+                 "Longitude":"",
+                "Gambar":""
+            },{
+                "id": "sb03",
+                "name": "Bandung Metal",
+                "informasi":"Terletak di ",
+                "Latitude":"",
+                "Longitude":"",
+                "Gambar":""
+            },
+            {
+                "id": "sb04",
+                "name": "Cibodas Distro",
+                "informasi":"Terletak di ",
+                "Latitude":"",
+                "Longitude":"",
+                "Gambar":""
+
+ }
+
+            ]
+    }
